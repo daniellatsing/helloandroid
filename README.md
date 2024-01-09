@@ -145,3 +145,5 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
+
+> A developer option that I found to be potentially useful was the "Pointer location" tool. Once turned on, the option displays a screen overlay to show current touch data including coordinates and sizes. I think that this tool could be useful in analyzing where users often touch certain parts of their screen, especially in understanding if they have a tendency to misclick other applications. However, I don't necessarily see a use for this feature during class this quarter simply unless my group project is related to screentime tapping statistics, or of a related topic.
